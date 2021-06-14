@@ -1,10 +1,8 @@
-import FriendInviteCard from "./Components/FriendInviteCard/FriendInviteCard";
+import FriendInviteCard from "./Components/AddFriends/FriendInviteCard/FriendInviteCard";
 export const App = () => {
   return (
     <div className="App">
       <FriendInviteCard username={"Junior"} />
-      <FriendInviteCard username={"Max"} />
-      <FriendInviteCard username={"Shaun"} />
     </div>
   );
 };
