@@ -8,7 +8,7 @@ import { AddFriendToGroupUser } from "./AddFriendToGroupUser";
 
 const styles = (theme) => ({
   root: {
-    width: "70%",
+    width: "100%",
     padding: "1rem",
   },
   container: {

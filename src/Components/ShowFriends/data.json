@@ -1,0 +1,80 @@
+{
+  "Default": [
+    {
+      "username": "Max",
+      "profile": "M"
+    },
+    {
+      "username": "John",
+      "profile": "J"
+    },
+    {
+      "username": "Shaun",
+      "profile": "s"
+    },
+    {
+      "username": "Harley",
+      "profile": "H"
+    }
+  ],
+  "BestFriends": [
+    {
+      "username": "Max",
+      "profile": "M"
+    },
+    {
+      "username": "John",
+      "profile": "J"
+    },
+    {
+      "username": "Shaun",
+      "profile": "s"
+    },
+    {
+      "username": "Harley",
+      "profile": "H"
+    },
+    {
+      "username": "Max",
+      "profile": "M"
+    },
+    {
+      "username": "John",
+      "profile": "J"
+    },
+    {
+      "username": "Shaun",
+      "profile": "s"
+    },
+    {
+      "username": "Harley",
+      "profile": "H"
+    }
+  ],
+  "WorkFriends": [
+    {
+      "username": "Max",
+      "profile": "M"
+    },
+    {
+      "username": "John",
+      "profile": "J"
+    },
+    {
+      "username": "Max",
+      "profile": "M"
+    },
+    {
+      "username": "John",
+      "profile": "J"
+    },
+    {
+      "username": "Shaun",
+      "profile": "s"
+    },
+    {
+      "username": "Harley",
+      "profile": "H"
+    }
+  ]
+}
