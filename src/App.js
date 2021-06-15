@@ -2,6 +2,7 @@ import FriendInviteCard from "./Components/AddFriends/FriendInviteCard/FriendInv
 import AddFriendToGroup from "./Components/AddFriends/AddFriendToGroup/AddFriendToGroup";
 import ShowFriends from "./Components/ShowFriends/ShowFriends";
 import { AddPlace } from "./Components/AddPlace/AddPlace";
+import { FavoritePlaceProfile } from "./Components/FavoritePlaceProfile/FavoritePlaceProfile";
 
 export const App = () => {
   return (
@@ -12,7 +13,9 @@ export const App = () => {
 
       {/* <ShowFriends /> */}
 
-      <AddPlace />
+      {/* <AddPlace /> */}
+
+      <FavoritePlaceProfile />
     </div>
   );
 };
