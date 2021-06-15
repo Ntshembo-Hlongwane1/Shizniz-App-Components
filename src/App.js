@@ -1,6 +1,7 @@
 import FriendInviteCard from "./Components/AddFriends/FriendInviteCard/FriendInviteCard";
 import AddFriendToGroup from "./Components/AddFriends/AddFriendToGroup/AddFriendToGroup";
 import ShowFriends from "./Components/ShowFriends/ShowFriends";
+import { AddPlace } from "./Components/AddPlace/AddPlace";
 
 export const App = () => {
   return (
@@ -9,7 +10,9 @@ export const App = () => {
 
       {/* <AddFriendToGroup username="Junior" /> */}
 
-      <ShowFriends />
+      {/* <ShowFriends /> */}
+
+      <AddPlace />
     </div>
   );
 };
